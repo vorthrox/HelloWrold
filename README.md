@@ -1,5 +1,5 @@
 # HelloWrold
-Primeiro repositorio
+Primeiro repositório
 
 
 Olá Humanos !!!
